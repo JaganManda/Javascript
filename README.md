@@ -1,3 +1,3 @@
 # Javascript
-Learning Javascript
+Learning Javascript.
 Author - Manda Jagan
